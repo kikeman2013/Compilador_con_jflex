@@ -1,0 +1,2 @@
+importante Leer los manuales para el correcto funcionamiento del compilador
+ubicados en la carpeta /src/manuales/
